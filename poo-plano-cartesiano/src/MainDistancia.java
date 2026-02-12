@@ -32,3 +32,4 @@ System.out.println(d1); // toString()
 System.out.println(d2);
 System.out.printf("Valor numérico d1: %.4f%n", d1.getDistancia());
 }
+}
