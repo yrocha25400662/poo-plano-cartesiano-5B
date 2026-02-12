@@ -7,8 +7,8 @@
 public class Distancia {
 // Subtema 2.1 — Atributos privados
 
-    private final Punto puntoA; // Objeto como atributo (composición)
-    private final Punto puntoB;
+    private Punto puntoA; // Objeto como atributo (composición)
+    private Punto puntoB;
     private double distancia;
 // Subtema 2.5 — Constructor con objetos Punto como parámetros
 
