@@ -7,7 +7,6 @@
  *
  * @author Yanzu
  */
-public class Punto {
 
     /**
      * Clase Punto — modela un punto del plano cartesiano. Subtemas: 2.1
